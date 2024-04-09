@@ -1,7 +1,7 @@
 ## Laravel Comics
 
 ## Screenshots
-![[homepage.png|300]]
+![Homepage](homepage.png)
 ![[single.png|300]]
 
 ### Description
