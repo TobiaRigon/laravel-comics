@@ -1,8 +1,8 @@
 ## Laravel Comics
 
 ## Screenshots
-![Homepage](homepage.png){width=300px}
-![Single](single.png){width=300px}
+!(homepage.png){width=300px}
+!(single.png){width=300px}
 
 ![[single.png|300]]
 
