@@ -4,7 +4,6 @@
 ![[homepage.png|300]]
 ![[single.png|300]]
 
-
 ### Description
 This repository contains a Laravel project developed to manage a collection of comics. It provides features for creating, viewing, updating, and deleting comics.
 
