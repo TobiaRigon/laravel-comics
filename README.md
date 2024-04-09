@@ -1,14 +1,15 @@
-## Laravel DC Comics
+## Laravel Comics
 
-**Correction**: [Link](https://github.com/Guybrush3791/bool-112-laravel-dc-comics)
+## Screenshots
+![[homepage.png|300]]
+![[single.png|300]]
+
 
 ### Description
-This project, developed using Laravel 9, is an application for managing a comic book archive. It allows users to create, view, update, and delete comics in their archive.
+This repository contains a Laravel project developed to manage a collection of comics. It provides features for creating, viewing, updating, and deleting comics.
 
-### Implemented Features
-- **Model**: `Comic`, along with its migration, factory, and seeder.
-- **Resource Controller**: Handles CRUD operations for comics.
-- **Views**: Index, show, create, edit for viewing and manipulating comics.
-- **Delete Confirmation**: Utilizes JavaScript to request confirmation before deleting a comic.
-- **Validations**: Implements validations during comic creation and modification, providing clear and localized error messages.
-- **Custom FormRequests**: Uses custom FormRequests to validate input data.
+### Contents
+- **Layout**: Includes a common layout file with the structure for all website pages, including header and footer components.
+- **Route**: A route is created to display the list of all comics.
+- **SASS Styling**: The layout and list of comics are enhanced using SASS for styling.
+- **Bonus**: Multiple institutional pages have been created, sharing the same layout.
